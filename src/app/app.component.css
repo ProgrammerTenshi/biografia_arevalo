@@ -1,0 +1,10 @@
+.margen1 {
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+}
+
+.fondo1 {
+    background-image: url("https://w11.es/wp-content/uploads/2022/10/Fondo-animado-6-para-Windows-11.jpg");
+    background-size: cover;
+    background-position: center;
+}
